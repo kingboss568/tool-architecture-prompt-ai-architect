@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prompt.ai-architect.com/sitemap.xml
