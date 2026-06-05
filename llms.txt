@@ -1,0 +1,45 @@
+Architecture Prompt Builder
+
+Architecture Prompt Builder is a practical ai lab workspace for prompt lead teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://prompt.ai-architect.com/
+- https://prompt.ai-architect.com/tool/
+- https://prompt.ai-architect.com/workspace/
+- https://prompt.ai-architect.com/reports/
+- https://prompt.ai-architect.com/guides/
+- https://prompt.ai-architect.com/library/
+- https://prompt.ai-architect.com/templates/
+- https://prompt.ai-architect.com/compare/
+- https://prompt.ai-architect.com/checklists/
+- https://prompt.ai-architect.com/integrations/
+- https://prompt.ai-architect.com/settings/
+- https://prompt.ai-architect.com/plans/
+- https://prompt.ai-architect.com/faq/
+- https://prompt.ai-architect.com/privacy/
+- https://prompt.ai-architect.com/about/
+- https://prompt.ai-architect.com/guides/estimate-token-spend-1/
+- https://prompt.ai-architect.com/guides/draft-a-prompt-system-2/
+- https://prompt.ai-architect.com/guides/compare-model-routes-3/
+- https://prompt.ai-architect.com/guides/plan-batch-capacity-4/
+- https://prompt.ai-architect.com/guides/audit-image-generation-costs-5/
+- https://prompt.ai-architect.com/guides/export-a-workflow-brief-6/
+- https://prompt.ai-architect.com/guides/estimate-token-spend-7/
+- https://prompt.ai-architect.com/guides/draft-a-prompt-system-8/
+- https://prompt.ai-architect.com/guides/compare-model-routes-9/
+- https://prompt.ai-architect.com/guides/plan-batch-capacity-10/
+- https://prompt.ai-architect.com/guides/audit-image-generation-costs-11/
+- https://prompt.ai-architect.com/guides/export-a-workflow-brief-12/
+- https://prompt.ai-architect.com/guides/estimate-token-spend-13/
+- https://prompt.ai-architect.com/guides/draft-a-prompt-system-14/
+- https://prompt.ai-architect.com/guides/compare-model-routes-15/
+- https://prompt.ai-architect.com/guides/plan-batch-capacity-16/
+- https://prompt.ai-architect.com/guides/audit-image-generation-costs-17/
+- https://prompt.ai-architect.com/guides/export-a-workflow-brief-18/
+- https://prompt.ai-architect.com/guides/estimate-token-spend-19/
+- https://prompt.ai-architect.com/guides/draft-a-prompt-system-20/
+- https://prompt.ai-architect.com/guides/compare-model-routes-21/
+- https://prompt.ai-architect.com/guides/plan-batch-capacity-22/
+- https://prompt.ai-architect.com/guides/audit-image-generation-costs-23/
+- https://prompt.ai-architect.com/guides/export-a-workflow-brief-24/
+- https://prompt.ai-architect.com/guides/estimate-token-spend-25/
